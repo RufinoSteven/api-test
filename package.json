@@ -1,0 +1,17 @@
+{
+  "name": "api-exercise",
+  "version": "1.0.0",
+  "description": "Exercise with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Diplan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "mochawesome-merge": "^4.3.0"
+  }
+}
